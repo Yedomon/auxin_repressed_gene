@@ -1,4 +1,41 @@
+# Review
+   
+
+Genomics assisted breeding for PHS has  retained the attention of the scientific community the last two decades. Tremendous advances were carriwd out with the identification of usefull PHS resistance genes. A glance of the diverse strategies employed for PHS resistance detection is summarized in the figure 1. The first and foremost stage in this process relied on the characterization of germplasm for the identification of promising genetics resources. Meanwhile several parental lines were released including IR24, .....,........,..... Besides the detection of contrasting materials regarding PHS resistance, the resistance gene pool from wild relatives including O. Rufipogon and O. ..... was investigated. Several  mapping populations were generated following RILs, BILs, CSSLs, Three way hybridization, and double haploidy.  The earlier detection of QTLs relied mostly on RFLP and SSRs markers. However, whole genome sequencing approach with a high resolution mapping at SNP level has been initiated.
+
+A total of xxxx QTLs have been detected within all chromosomes of the rice genome (Table 1). 
+
+
+Comment a little the table
+
+
+In order to find out genes involved in PHS and subsequent related biological processes including seed dormancy, transcriptomics studies using contrasting rice materials has been performed. Worker et al pinpointed 2222 genes associated with ......biological process.
+
+
+
+From that huge genetic and genomic resources, some majour genes has been functionnaly validated. Worker et al identified the .......as responsible of ........Moreover, .....the.....gene exhited a regulatory effect on ..............
+
+
+Considering the importance of environmental effect on seed dormancy and germination , we suggest an investigation of the epigenome on rice. In fact, an increasing evidence has been in favor of DNA and histone methylation in regards with PHS resistance genetic mechanism (Genetic and epigenetic factors may be behind why some wheat strains begin to sprout prematurely under high humidity and rainfall conditions & Time to Wake Up: Epigenetic and Small-RNA-Mediated Regulation during Seed Germination & Post-transcriptional regulation of seed dormancy and germination: Current understanding and future directions). The ARGONAUTE4_9 , a DNA methylation RNA-dependent gene has been found to be involved in the sprouting of wheat. Therefore, deciphering the epigenetic factors contributiong to the PHS resistance regulation in rice will lay a foundation for a deep understanding of the full machinery in real climate impacted conditions.  
+
+MicroRNA and small RNAs also played an critical role in the gene expression in seed dormancy,  germination, maturation. The impact of those RNA on the key hormone regulation ie ABA and gibbberelin in rice might be an area of new discoberies for the management of PHS.
+
+Altogether, post-transcriptional regulation  encompassing, splicing RNA and epigenetics offer a new avenue for unravelling of the mechanism of resistance of PHS in rice. Ultimately, a deeper comprehension of the whole pmachinery will provide a gain for designing better rice with added value.
+
+
+
+
+
+
+
+
+
 # auxin_repressed_gene
+
+
+
+
+
 
 
 
