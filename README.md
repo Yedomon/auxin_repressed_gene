@@ -13,7 +13,7 @@
 # Review
    
 
-Genomics assisted breeding for PHS has retained the attention of the scientific community the last two decades. Tremendous advances were carried out with the identification of useful PHS resistance genes. A glance of the diverse strategies employed for PHS resistance detection is summarized in the [*figure 1*](). The first and foremost stage in this process relied on the characterization of germplasm for the identification of promising genetics resources. 
+Genomics assisted breeding for PHS has retained the attention of the scientific community the last two decades. Tremendous advances were carried out with the identification of useful PHS resistance genes. A glance of the diverse strategies employed for PHS resistance detection is summarized in the [*figure 1*](https://github.com/Yedomon/auxin_repressed_gene/blob/main/Figurev2.png). The first and foremost stage in this process relied on the characterization of germplasm for the identification of promising genetics resources. 
 
 
 **QTL**
