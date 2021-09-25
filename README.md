@@ -6,7 +6,7 @@ Genomics assisted breeding for PHS has retained the attention of the scientific 
 
 
 ![img](https://github.com/Yedomon/auxin_repressed_gene/blob/main/Figurev2.png)
-Figure 1: Diagrammatic of the genomics-assisted breeding for PHS tolrance in rice.
+**Figure 1: Diagrammatic of the genomics-assisted breeding for PHS tolrance in rice.**
 
 
 **QTL**
