@@ -5,6 +5,10 @@
 Genomics assisted breeding for PHS has retained the attention of the scientific community the last two decades. Tremendous advances were carried out with the identification of useful PHS resistance genes. A glance of the diverse strategies employed for PHS resistance detection is summarized in the [*figure 1*](https://github.com/Yedomon/auxin_repressed_gene/blob/main/Figurev2.png). The first and foremost stage in this process relied on the characterization of germplasm for the identification of promising genetics resources. 
 
 
+![img](https://github.com/Yedomon/auxin_repressed_gene/blob/main/Figurev2.png)
+Figure 1: Diagrammatic of the genomics-assisted breeding for PHS tolrance in rice.
+
+
 **QTL**
 
 Meanwhile several parental lines were released including IR24, Asominori, Jinsang, and Gopum. Besides the detection of contrasting materials regarding PHS resistance, the resistance gene pool from wild relatives including O. rufipogon [(Phan et al., 2021)](https://link.springer.com/article/10.1007/s42976-021-00162-0#ref-CR20) and O. nivara [(Li et al., 2006)]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/j.1469-8137.2005.01647.x) and weedy rice [Gu et al 2004](https://academic.oup.com/genetics/article/166/3/1503/6050471?login=true#236962316) was investigated. Several mapping populations were generated following RILs, BILs, CSSLs, Three-way cross hybrid, and double haploidy.  The earlier detection of QTLs relied mostly on RFLP and SSRs markers. However, whole genome sequencing approach with a high resolution mapping at SNP level has been initiated. A total of xxxx QTLs have been detected within all chromosomes of the rice genome *(Table 1)*. 
