@@ -1,3 +1,54 @@
+## New Ref for transcriptomics
+
+
+-01 2020 | Imbibition of Seed Germination  | [RNA-Seq Study Reveals AP2-Domain-Containing Signalling Regulators Involved in Initial Imbibition of Seed Germination in Rice](https://www.sciencedirect.com/science/article/pii/S1672630820300408)
+
+-02 2017 | Coleoptile growth | [RNA-Seq Analysis of Diverse Rice Genotypes to Identify the Genes Controlling Coleoptile Growth during Submerged Germination](https://www.frontiersin.org/articles/10.3389/fpls.2017.00762/full)
+
+-03 2016 | Seed germination | [Transcriptome Analysis of Oryza sativa (Rice) Seed Germination at High Temperature Shows Dynamics of Genome Expression Associated with Hormones Signalling and Abiotic Stress Pathways](https://link.springer.com/article/10.1007/s12042-016-9170-7)
+
+-04 2010 | Seed dormancy | [Transcriptomics Analysis Identified Candidate Genes Colocalized with Seed Dormancy QTLs in Rice ( Oryza sativa L.)](https://link.springer.com/content/pdf/10.1007/s12374-010-9120-0.pdf)
+
+-05 2021 | [Integrating GWAS and Transcriptomics to Identify Genes Involved in Seed Dormancy in Rice](https://assets.researchsquare.com/files/rs-414570/v1/90cf3036-41a4-44d0-bdb4-a06bb621104a.pdf?c=1631881054)
+
+-06 2020| PHS | [Analysis of Varietal Differences in Pre-harvest Sprouting of Rice using RNA-Sequencing](https://www.koreascience.or.kr/article/JAKO202034965719330.page)
+
+
+## New ref for GWAS
+
+-01 [Genome-wide association mapping revealed a diverse genetic basis of seed dormancy across subpopulations in rice (Oryza sativa L.)](https://bmcgenomdata.biomedcentral.com/articles/10.1186/s12863-016-0340-2)
+
+-02 2021 | [Novel Sources of Pre-Harvest Sprouting Resistance for Japonica Rice Improvement](https://www.mdpi.com/2223-7747/10/8/1709/htm)
+
+
+Excellent summary
+
+> In the case of rice, the map-based cloning of qSD7-1/qPC1 identified the Rc gene, encoding a basic helix-loop-helix family transcription factor, which upregulates genes involved in the biosynthesis of both flavonoid and ABA [12]. In the T-DNA/Tos17 insertional mutant populations, genes involved in the biosynthesis of carotenoids (i.e., OsPDS, OsZDS, OsCRTISO, and β-OsLCY), the important precursors of ABA, were identified [13]. A similar study using rice mutants with the PHS phenotype identified causal mutations in OsCNX1 and OsCNX6, the genes encoding molybdenum cofactors required for ABA biosynthesis [14]. Also, characterization of phs9-D revealed that this PHS mutant in rice carries a dominant mutation in PHS9, a gene encoding a CC-type glutaredoxin, which mediates ABA signaling through the interaction with ABA receptors [15]. In spite of these findings underlying clear biochemical mechanisms on PHS resistance, breeding efforts enhancing PHS resistance in rice varieties have been limited due to lack of genetic resources. Sdr4 and qSD7-1/qPC1, the major loci associated with PHS resistance were from a single genetic resource: Aus landrace Kasalath having red pericarp color and strong dormancy [12,16].
+
+
+
+## New for genome wide identification
+
+
+01 2021 | [Genome-Wide Identification and Expression Analysis of OsbZIP09 Target Genes in Rice Reveal Its Mechanism of Controlling Seed Germination](https://www.mdpi.com/2223-7747/10/8/1709/htm)
+
+
+
+
+## New functional validation 
+
+-01 [Control of rice pre-harvest sprouting by glutaredoxin-mediated abscisic acid signaling](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14501)
+
+
+
+
+
+
+
+
+
+
+
 
 # Review
    
