@@ -1,6 +1,10 @@
 ## New Ref for transcriptomics
 
 
+[CRISPR cas 9](https://www.mdpi.com/2223-7747/10/10/2055)
+
+
+
 -01 2020 | Imbibition of Seed Germination  | [RNA-Seq Study Reveals AP2-Domain-Containing Signalling Regulators Involved in Initial Imbibition of Seed Germination in Rice](https://www.sciencedirect.com/science/article/pii/S1672630820300408)
 
 -02 2017 | Coleoptile growth | [RNA-Seq Analysis of Diverse Rice Genotypes to Identify the Genes Controlling Coleoptile Growth during Submerged Germination](https://www.frontiersin.org/articles/10.3389/fpls.2017.00762/full)
