@@ -21,8 +21,8 @@ worldmap <- ne_countries(scale = "medium", returnclass = "sf")
 
 # data
 
-data_prod = read.csv("prod.csv", sep = ";", h = T, dec = ",")
-data_area = read.csv("area.csv", sep = ";", h = T, dec = ",")
+data_prod = read.csv("prod_new.csv", sep = ";", h = T, dec = ",")
+data_area = read.csv("area_new.csv", sep = ";", h = T, dec = ",")
 
 
 names(data_area)
@@ -43,10 +43,10 @@ p1 = ggplot(data = worldmap) +
   geom_point(data = data_area, aes(x=long, y=lat)) +
   
   geom_scatterpie(data = data_area, 
-                  aes(long, lat, r = sqrt((Area)/3)),
+                  aes(long, lat, r = sqrt((Area)/5)),
                   cols = c("GM", "None_GM"), 
                   
-                  alpha = 0.5) +
+                  alpha = 0.6) +
   
   geom_text_repel(data = data_area,
                   aes(x = long, y= lat,
@@ -58,10 +58,10 @@ p1 = ggplot(data = worldmap) +
                   segment.color = "grey10") +
   
   
-  scale_fill_manual(values = c("#7D3C98", "#641E16") ) +  
+  scale_fill_manual(values = c("#7D3C98", "#145A32") ) +  
   
   
-  labs(fill = "Crop type", title="(A) Cultivated area (x10^5 hectares)") +
+  labs(fill = "Crop type", title="(A) Cultivated area (x10^4 hectares)") +
   
   
   
@@ -102,7 +102,7 @@ p2 = ggplot(data = worldmap) +
   
   scale_radius(range = c(5, 20), "Production") +
   
-  labs(title="(B) Production (x 10^5 tonnes)") +
+  labs(title="(B) Production (x 10^4 tonnes)") +
   
   
   
