@@ -2,9 +2,20 @@
 
 ## Conclusion
 
-Secondary metabolites biosynthesis impulsed under the action of phytohormone in general and jasmonates in particular is crucial for the plant growth, development and defense in a stressed environment. So far, tremendous efforts drive to the elucidation of some key genes involved into the physiological mechanisms deployed by the plant to grow and survive. Owing the growing interest for the natural produced secondary metabolites in human health [ref1] and neutraceutical enriched foods [ref 2], a better comprehension of the accumulation of the plant metabolites is gaining more attention.  The jasmonate-elicited plant secondary metabolism machinery involved several transcription factors including WRKY TFs.
+Secondary metabolites biosynthesis impulsed under the action of phytohormone in general and jasmonates in particular is crucial for the plant growth, development and defense in a stressed environment. So far, tremendous efforts drive to the elucidation of some key genes involved into the physiological mechanisms deployed by the plant to grow and survive. The jasmonate-elicited plant secondary metabolism machinery involved several activators known as transcription factors including WRKY, basic helix–loop–helix (bHLH), and MYB []uge progress have been done by using the plant model A. thaliana and some medicinal plant system including  C. roseus, N. tabacum and A. annua
 
-Huge progress have been done by using some popular plant system including oryza sativa [ref1], arabidopsis thaliana [ref2], nicotiana tabbacum [ref3] etc.However, the orphan crops also represent a gold mine that deserve to be investigated. Among those orphan crop, the transcriptional comprehension of secondary metabolites synthesis have been initiated [ref1, ref2, ref3], paving the way for not only effective health oriented metabolic enginering, but also engineered crop protection against adverse biotic and abiotic stresses. Altogether, under the ongoing environmental change status, JAs' metabolites elicitation machinery needs further investigation.
+
+oryza sativa [ref1], arabidopsis thaliana [ref2], nicotiana tabbacum [ref3] etc.
+
+
+
+
+However, the orphan crops also represent a gold mine that deserve to be investigated. Among those orphan crop, the transcriptional comprehension of secondary metabolites synthesis have been initiated [ref1, ref2, ref3], paving the way for not only effective health oriented metabolic enginering, but also engineered crop protection against adverse biotic and abiotic stresses. 
+
+
+
+
+Owing the growing interest for the natural produced secondary metabolites in human health [ref1] and neutraceutical enriched foods [ref 2], a better comprehension of the accumulation of the plant metabolites is gaining more attention.  Altogether, under the ongoing environmental change status, JAs' metabolites elicitation machinery needs further investigation.
 
 
 
